@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-
-# My ![Visitor Count](https://profile-counter.glitch.me/SANJINGSHOU14/count.svg) visitor
-
+<p align="right">
+  # My ![Visitor Count](https://profile-counter.glitch.me/SANJINGSHOU14/count.svg) visitor
+</p>
 
 # I'm Chen Chao <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
