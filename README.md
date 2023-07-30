@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/SANJINGSHOU14/SANJINGSHOU14/master/assets/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/SANJINGSHOU14/SANJINGSHOU14/assets/github-contribution-grid-snake.svg" /></div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SANJINGSHOU14&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
