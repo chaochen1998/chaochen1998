@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=SANJINGSHOU14&theme=minimal" />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
