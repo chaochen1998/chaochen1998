@@ -1,5 +1,6 @@
 
 ![](https://raw.githubusercontent.com/SANJINGSHOU14/SANJINGSHOU14/master/assets/github-contribution-grid-snake.svg)
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -7,16 +8,16 @@
 My ![Visitor Count](https://profile-counter.glitch.me/SANJINGSHOU14/count.svg) visitor
 
 
-# I'm Wang Fei <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I'm Chen Chao <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 I’m currently working on **HuoLaLa**
-- 🌱 I’m currently learning **NLP**
-- 👯 Currently working in **ShenZhen, China**
-- 🤔 I love **Reading, photography**
-- 💬 Ask me about Deep Learning, Python and my projects
-- 📫 How to reach me: **wf18684531169@gmail.com**
-- 😄 You may like [My Website](https://www.christmas.wang/),[Blog](https://www.zhihu.com/people/wang-fei-51-86)
-- ⚡ Fun fact: **LOL, Movie**
+- 🔭 I’m currently studying on **SJTU**
+- 🌱 I’m currently learning **CV**
+- 👯 Currently living in **SHANGHAI, China**
+- 🤔 I love **Basketball, Sleep**
+- 💬 Ask me about Computer Vision, Python and my projects
+- 📫 How to reach me: **chao299@outlook.com**
+# - 😄 You may like [My Website](https://www.christmas.wang/),[Blog](https://www.zhihu.com/people/wang-fei-51-86)
+- ⚡ Fun fact: **LOL, 🏀**
 
 # About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas-Wong)](https://github.com/Christmas-Wong/github-readme-stats)
