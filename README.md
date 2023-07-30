@@ -22,10 +22,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANJINGSHOU14&show_icons=true&theme=tokyonight)
 
-<div align="left">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SANJINGSHOU14" />
-</div>
-
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
 
