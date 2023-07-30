@@ -22,10 +22,10 @@
   <div align="center">
   <span>  </span>
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJINGSHOU14&layout=compact&langs_count=8" />
+    <img alt="Snake animation" src="https://github.com/SANJINGSHOU14/SANJINGSHOU14/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+  <img alt="Snake animation" src="https://github.com/SANJINGSHOU14/SANJINGSHOU14/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
   <span>  </span>
   </div>
-  <img alt="Snake animation" src="https://github.com/SANJINGSHOU14/SANJINGSHOU14/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-  <img alt="Snake animation" src="https://github.com/SANJINGSHOU14/SANJINGSHOU14/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </p>
 
 # My Skill Set  
