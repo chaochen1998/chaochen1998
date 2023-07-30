@@ -16,13 +16,12 @@ My ![Visitor Count](https://profile-counter.glitch.me/SANJINGSHOU14/count.svg) v
 - 🤔 I love **Basketball, Sleep**
 - 💬 Ask me about Computer Vision, Python and my projects
 - 📫 How to reach me: **chao299@outlook.com**
-# - 😄 You may like [My Website](https://www.christmas.wang/),[Blog](https://www.zhihu.com/people/wang-fei-51-86)
 - ⚡ Fun fact: **LOL, 🏀**
 
 # About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas-Wong)](https://github.com/Christmas-Wong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANJINGSHOU14)](https://github.com/SANJINGSHOU14/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas-Wong&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANJINGSHOU14&show_icons=true&theme=tokyonight)
 
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
