@@ -1,5 +1,6 @@
-
-![](https://raw.githubusercontent.com/SANJINGSHOU14/SANJINGSHOU14/master/assets/github-contribution-grid-snake.svg)
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=SANJINGSHOU14&theme=minimal" />
+</div>
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -22,6 +23,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANJINGSHOU14)](https://github.com/SANJINGSHOU14/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANJINGSHOU14&show_icons=true&theme=tokyonight)
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SANJINGSHOU14" />
+</div>
 
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
