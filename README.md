@@ -20,8 +20,8 @@
   <!--<a href="https://github.com/SANJINGSHOU14/SANJINGSHOU14"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SANJINGSHOU14&theme=light"/></a>-->
   <a href="https://github.com/SANJINGSHOU14/SANJINGSHOU14"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=SANJINGSHOU14" /></a>
   <a href="https://github.com/SANJINGSHOU14/SANJINGSHOU14"><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJINGSHOU14&layout=compact&langs_count=8" /></a>
-  <img alt="Snake animation" src="https://github.com/SANJINGSHOU14/SANJINGSHOU14/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-  <img alt="Snake animation" src="https://github.com/SANJINGSHOU14/SANJINGSHOU14/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+  <img alt="Snake animation" src="https://github.com/SANJINGSHOU14/SANJINGSHOU14/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+  <img alt="Snake animation" src="https://github.com/SANJINGSHOU14/SANJINGSHOU14/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SANJINGSHOU14&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
