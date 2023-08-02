@@ -24,6 +24,14 @@
     
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SANJINGSHOU14&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com//SANJINGSHOU14/SANJINGSHOU14/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//SANJINGSHOU14/SANJINGSHOU14/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com//SANJINGSHOU14/SANJINGSHOU14/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
 
