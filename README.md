@@ -10,8 +10,8 @@
 - 🔭 I’m currently studying on **SJTU**
 - 🌱 I’m currently learning **CV**, **LMM** and **LLM**
 - 👯 Currently living in **SHANGHAI, China**
-- 🤔 I love **Basketball, LOL**
-- 💬 Ask me about Computer Vision, Python and my projects
+- 🤔 I love **Basketball, LoL**
+- 💬 Ask me about Computer Vision, Python, LLM, VLM and my projects
 - 📫 How to reach me: **chao299@outlook.com**
 - ⚡ Fun fact: **LOL, 🏀**
 
