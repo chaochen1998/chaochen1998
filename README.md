@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-# My ![Visitor Count](https://profile-counter.glitch.me/SANJINGSHOU14/count.svg) visitor
+# My ![Visitor Count](https://profile-counter.glitch.me/chaochen1998/count.svg) visitor
 
 
 # I'm Chen Chao <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
@@ -17,18 +17,18 @@
 
 # About My Github
 <p align="center">
-  <!--<a href="https://github.com/SANJINGSHOU14/SANJINGSHOU14"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SANJINGSHOU14&theme=light"/></a>-->
-  <a href="https://github.com/SANJINGSHOU14/SANJINGSHOU14"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=SANJINGSHOU14" /></a>
-  <a href="https://github.com/SANJINGSHOU14/SANJINGSHOU14"><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJINGSHOU14&layout=compact&langs_count=8" /></a>
+  <!--<a href="https://github.com/chaochen1998/chaochen1998"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=chaochen1998&theme=light"/></a>-->
+  <a href="https://github.com/chaochen1998/chaochen1998"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=chaochen1998" /></a>
+  <a href="https://github.com/chaochen1998/chaochen1998"><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaochen1998&layout=compact&langs_count=8" /></a>
 </p>
     
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SANJINGSHOU14&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaochen1998&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center" >
 	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com//SANJINGSHOU14/SANJINGSHOU14/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//SANJINGSHOU14/SANJINGSHOU14/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com//SANJINGSHOU14/SANJINGSHOU14/output-3d-contrib/day.svg" />
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com//chaochen1998/chaochen1998/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//chaochen1998/chaochen1998/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com//chaochen1998/chaochen1998/output-3d-contrib/day.svg" />
 	</picture>
 </p>
 
@@ -75,5 +75,4 @@
 </div>
 
 </td></tr></table>  
-
 <br/>  
