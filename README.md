@@ -8,7 +8,7 @@
 # I'm Chen Chao <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently studying on **SJTU**
-- 🌱 I’m currently learning **CV**, **LMM** and **LLM**
+- 🌱 I’m currently learning **CV**, **LLM** and **VLM**
 - 👯 Currently living in **SHANGHAI, China**
 - 🤔 I love **Basketball, LoL**
 - 💬 Ask me about Computer Vision, Python, LLM, VLM and my projects
